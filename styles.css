@@ -18,9 +18,45 @@ main {
     background-color: #4F1787;
     padding: 20px;
 }
+h1 {
+    font-size: 3rem;
+}
+h3 {
+    background-color: #EB3678;
+    color: #180161;
+    padding: 10px;
+}
+h4 {
+    background-color: #FB773C;
+    color:#180161;
+    padding: 10px;
+}
+#written {
+    text-transform: uppercase;
+    text-align: center;
+}
+#date {
+    text-align: center;
+}
 #mainHeading {
+    background-color: black;
     color: red;
+    padding: 20px 20px;
+    text-align: center;
 }
 .funParagraph {
     color: green;
+    background-color: black;
+    padding: 20px 20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%;
+
+}
+.switches {
+    display: block;
+    width: 60%;
 }
