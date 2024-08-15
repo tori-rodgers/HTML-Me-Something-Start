@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+body {
+    color: white;
+    background: url('images/mechanical-keyboard-8701176_1280.png') fixed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100vw;
+    padding: 0 10vw;
+    margin: 8px;
+    box-sizing: border-box;
+    display: block;
+}
+header, footer {
+    background-color: #180161;
+    padding: 10px 30px;
+ 
+}
+main {
+    background-color: #4F1787;
+    padding: 20px;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
