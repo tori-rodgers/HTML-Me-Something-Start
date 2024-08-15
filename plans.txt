@@ -1,0 +1,26 @@
+WEBPAGE LAYOUT
+
+Title: A Beginner's Guide to Keyboard Customization
+
+Anatomy of a mechanical Keyboard
+(find new word for anatomy)
+    -case
+    -PCB and plate
+    -switches
+    -keycaps
+
+
+Why Customize?
+    -keycaps
+    -sound
+    -how it feels pressing the keys(switches)
+
+
+Start Small
+    -change parts on a fully assembled Keyboard
+    -best keyboards for making customizations on a budget
+    
+My Build:
+    -keyboard
+    -keycaps
+    -switches
